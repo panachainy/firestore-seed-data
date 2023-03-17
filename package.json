@@ -1,0 +1,17 @@
+{
+  "name": "firestore-seed-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Panachai <panachai.ny@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "firebase": "^9.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
